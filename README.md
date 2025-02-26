@@ -7,6 +7,7 @@ Hi My name is Lộc Đình Đinh aka Yuu
 Skills
 I made projects just for fun, training my skills...
 
-GitJavaScriptHTML5ReactNuxtjsCSS3SassTailwindCSSBootstrapMaterial UI
+![image](https://github.com/user-attachments/assets/4bd5e0b0-ebfe-4d44-bb55-35d10d726cfd)
+
 
 Socials
