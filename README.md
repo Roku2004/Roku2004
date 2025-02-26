@@ -1,8 +1,8 @@
  ### Hi there 👋
 
 # 💫About Me :
-I'm Dinh Dinh Loc,student of HEDSPI program at 
-Hanoi University of Science and Technology
+I'm Dinh Dinh Loc, student of HEDSPI program at 
+Hanoi University of Science and Technolog
 
 
 # 💻 Programming Languages 💻
