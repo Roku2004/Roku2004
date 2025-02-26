@@ -11,8 +11,8 @@ Hanoi University of Science and Technology
 ![Java](https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000)
 ![JavaScript](https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000)
 <br/>
-![CSS3](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
 ![HTML5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
+![CSS3](https://img.icons8.com/?size=100&id=8g8wgS42uN5W&format=png&color=000000)
 
 
 
