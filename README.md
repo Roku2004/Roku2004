@@ -5,11 +5,13 @@ I'm Dinh Dinh Loc,student of HEDSPI program at
 Hanoi University of Science and Technology
 
 
-# 💻Programming Languages 💻
+# 💻 Programming Languages 💻
 ![C](https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000)
 ![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000)
 ![Java](https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000)
 ![JavaScript](https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000)
+![Octave](https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000)
+![assembly](https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000)
 <br/>
 ![HTML5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
 ![CSS3](https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000)
@@ -19,7 +21,7 @@ Hanoi University of Science and Technology
 # 🚀 Frameworks and Libraries 🚀
 ![Spring Boot](https://img.icons8.com/?size=100&id=90519&format=png&color=000000)
 <br />
-# 🧰 Technologies and Tools 🧰
+# 🧰 Database 🧰
 ![Docker](https://img.icons8.com/?size=100&id=qGZRK3KTK57F&format=png&color=000000)
 ![Postgres](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)
 ![MySQL](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000)
