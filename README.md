@@ -23,7 +23,9 @@ Hanoi University of Science and Technology
 ![Docker](https://img.icons8.com/?size=100&id=qGZRK3KTK57F&format=png&color=000000)
 ![Postgres](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)
 ![MySQL](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000)
-# ![image](https://github.com/user-attachments/assets/e3d9cb4c-eb2c-4f52-80f5-06294a3b5535) IDE ![image](https://github.com/user-attachments/assets/1b0a89bf-743e-4a46-ac4d-e9a4a1c5618e)
+# ![image](https://github.com/user-attachments/assets/21a6554e-ffa9-4cf2-8837-b9dcbe01f26a)
+ IDE ![image](https://github.com/user-attachments/assets/a55750b4-afc1-4f00-bbea-0b439525cbe3)
+
 
 
 # 📊GitHub Stats :
