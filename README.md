@@ -1,6 +1,3 @@
-20:50<br\>
-Lộc<br\>
-Lộc Đinh
 ### Hi there 👋
 
 # 💫About Me :
