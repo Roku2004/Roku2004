@@ -12,7 +12,7 @@ Hanoi University of Science and Technology
 ![JavaScript](https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000)
 <br />
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](<a href="https://www.flaticon.com/free-icons/html" title="html icons">Html icons created by Freepik - Flaticon</a>)
+![HTML5](https://www.flaticon.com/free-icons/html)
 ) 
 
 # 🚀 Frameworks and Libraries 🚀
