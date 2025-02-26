@@ -40,6 +40,4 @@ Hanoi University of Science and Technolog
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Roku2004&icon=0&color=0)](https://visitcount.itsvg.in)
-<img src="https://raw.githubusercontent.com/Roku2004/Roku2004/output/snake.svg" alt="Snake animation" />
 
-###
