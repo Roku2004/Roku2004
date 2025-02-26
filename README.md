@@ -1,4 +1,4 @@
-### Hi there 👋
+ ### Hi there 👋
 
 # 💫About Me :
 I'm Dinh Dinh Loc,student of HEDSPI program at 
@@ -23,9 +23,12 @@ Hanoi University of Science and Technology
 ![Docker](https://img.icons8.com/?size=100&id=qGZRK3KTK57F&format=png&color=000000)
 ![Postgres](https://img.icons8.com/?size=100&id=38561&format=png&color=000000)
 ![MySQL](https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000)
-# ![image](https://github.com/user-attachments/assets/2deba424-17e8-4739-ba1c-364ebce354d1)IDE ![image](https://github.com/user-attachments/assets/9d291011-d11c-423a-8e6b-94e31ab98d37)
+# ![image](https://github.com/user-attachments/assets/2deba424-17e8-4739-ba1c-364ebce354d1) IDEA ![image](https://github.com/user-attachments/assets/9d291011-d11c-423a-8e6b-94e31ab98d37)
 
-
+![Inteliji](https://img.icons8.com/?size=100&id=61466&format=png&color=000000)
+![Vs Code](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000)
+![Netbeans](https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000)
+![Eclipse](https://img.icons8.com/?size=100&id=rPAHs7H1vriV&format=png&color=000000)
 
 
 # 📊GitHub Stats :
