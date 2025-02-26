@@ -8,9 +8,10 @@ Hi My name is Lộc Đình Đinh aka Yuu
 Skills
 I made projects just for fun, training my skills...
 
-![image](https://github.com/user-attachments/assets/d80c64f5-dfae-4376-a408-dd6fa1378fbf) ![image](https://github.com/user-attachments/assets/c4b56a9a-a888-4169-8803-68811ac3a893) ![image](https://github.com/user-attachments/assets/647c97a9-cbb1-4bff-8e8a-ead38e395de2)
-
+![image](https://github.com/user-attachments/assets/66a403df-56ae-46ad-a2f2-98d462636ec1) ![image](https://github.com/user-attachments/assets/22400c63-f52d-4ef6-af10-bedcf89d6842)
 
 
 
 Socials
+
+![image](https://github.com/user-attachments/assets/49dcd9ab-d021-47c1-8855-0c50909bd6d8)
