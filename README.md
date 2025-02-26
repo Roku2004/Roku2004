@@ -6,12 +6,13 @@ Hanoi University of Science and Technology
 
 
 # 💻Programming Languages 💻
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000)
+![C](https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000)
+![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000)
 ![Java](https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000)
-![JavaScript](https://github.com/user-attachments/assets/e965fba4-5ab3-43cc-a56b-743be0b4c1da)
-![CSS3](https://github.com/user-attachments/assets/9755aba3-bf6b-404d-9f09-8a88a02978aa)
-![HTML5](https://github.com/user-attachments/assets/88550301-625c-4542-bc7c-435fe94679b6)
+![JavaScript](https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000)
+<br/>
+![CSS3](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+![HTML5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
 
 
 
