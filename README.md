@@ -12,7 +12,8 @@ Hanoi University of Science and Technology
 ![JavaScript](https://img.icons8.com/?size=100&id=laVIsJnTtYoj&format=png&color=000000)
 <br />
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://github.com/user-attachments/assets/d5f160cd-0180-456f-a1fa-992017f1c2f3)
+![HTML5](https://github.com/user-attachments/assets/ca0ed620-9fe5-4f2c-b58e-c39bfce3696d)
+
 
 
 
