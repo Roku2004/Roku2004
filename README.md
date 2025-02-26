@@ -9,7 +9,7 @@ Hanoi University of Science and Technology
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.icons8.com/?size=100&id=zuK0mtFDZAfG&format=png&color=000000)
 <br />
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](![image](https://github.com/user-attachments/assets/c8a222a8-5ad4-47bd-a02f-60cc839a9c05)
