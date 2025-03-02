@@ -10,7 +10,6 @@ Hanoi University of Science and Technolog
 ![C++](https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000)
 ![Java](https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000)
 ![JavaScript](https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000)
-![Octave](https://img.icons8.com/?size=100&id=r5Y16PcDkoWI&format=png&color=000000)
 ![assembly](https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000)
 <br/>
 ![HTML5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
