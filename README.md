@@ -44,5 +44,3 @@ Hanoi University of Science and Technolog
 ![](https://github-contributor-stats.vercel.app/api?username=Roku2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=Roku2004&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/inhinhloc/)
